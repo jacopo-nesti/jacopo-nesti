@@ -10,8 +10,6 @@ Futuro developer che ama creare, imparare e condividere codice.
 
 [Repository](https://github.com/jacopo-nesti/checkmate)
 
----
-
 ## 🌐 Contatti
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacropoyoga)
