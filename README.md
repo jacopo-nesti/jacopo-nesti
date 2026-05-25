@@ -6,7 +6,7 @@ Mi chiamo Jacopo e sono uno studente IFTS Software Developer !
 
 
 - 🔭 Attualmente sto ampliando le mie conoscenze su HTML, CSS, JavaScript e Python
-- 
+  
 - 📫 Se vuoi contattarmi --> [instagram](https://www.instagram.com/jacropoyoga)
 
 <!--
