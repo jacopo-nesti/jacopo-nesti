@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Ciao !
+
+Mi chiamo Jacopo e sono uno studente IFTS Software Developer !
+
+[Questo è il mio primo progetto](https://github.com/jacopo-nesti/checkmate)
+
+
+- 🔭 Attualmente sto ampliando le mie conoscenze su HTML, CSS, JavaScript e Python
+- 
+- 📫 Se vuoi contattarmi --> [instagram](https://www.instagram.com/jacropoyoga)
 
 <!--
 **jacopo-nesti/jacopo-nesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
