@@ -1,25 +1,71 @@
-## Hi there 👋 Ciao !
+# 👋 Ciao, sono Jacopo
 
-Mi chiamo Jacopo e sono uno studente IFTS Software Developer !
+💻 Studente Software Developer | 🚀 Future Full Stack Developer  | 📍 Firenze/Italia
 
-[Questo è il mio primo progetto](https://github.com/jacopo-nesti/checkmate)
+Futuro developer che ama creare, imparare e condividere codice.
 
+---
 
-- 🔭 Attualmente sto ampliando le mie conoscenze su HTML, CSS, JavaScript e Python
-  
-- 📫 Se vuoi contattarmi --> [instagram](https://www.instagram.com/jacropoyoga)
+## 🚀 About Me
 
-<!--
-**jacopo-nesti/jacopo-nesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Attualmente lavoro su: **il mio primo progetto personale**
+- 🌱 Sto imparando: **HTML, CSS, JavaScript e Python**
+- 🎯 Obiettivo: **migliorare ogni giorno**
+- 💡 Mi interessa: **sviluppo web, automazioni e nuove tecnologie**
+- ⚡ Fun fact: **trasformo la curiosità in codice**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Python
+- JavaScript
+- C++
+
+### 🌐 Web Development
+- HTML
+- CSS
+
+### 🗄 Database
+- SQL
+- Database Basics
+
+### 🚀 Currently Improving
+- JavaScript
+- Backend Logic
+- Database Management
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 CheckMate - Gestore di compiti personale
+Web app per task management sviluppata in Python con Flask e SQLite. Il progetto permette CRUD completo dei compiti (creazione, lettura, aggiornamento, eliminazione) con frontend in HTML, CSS e JavaScript.
+
+[Repository](https://github.com/jacopo-nesti/checkmate)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Contatti
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacropoyoga)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TUOUSERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](jacopo.nesti95@gmail.com)
+
+---
+
+## ☕ Support
+
+Se ti piacciono i miei progetti:
+
+⭐ Metti una star ai repository  
+🤝 Connettiti con me  
+🚀 Collaboriamo insieme
