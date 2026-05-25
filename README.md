@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Jacopo
 
-💻 Studente Software Developer | 🚀 Future Full Stack Developer  | 📍 Firenze/Italia
+💻 Studente Software Developer | 🚀 Futuro Full Stack Developer  | 📍 Firenze/Italia
 
 Futuro developer che ama creare, imparare e condividere codice.
 
@@ -19,22 +19,16 @@ Futuro developer che ama creare, imparare e condividere codice.
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- Python
-- JavaScript
-- C++
+- Python, JavaScript, C++
 
 ### 🌐 Web Development
-- HTML
-- CSS
+- HTML, CSS
 
 ### 🗄 Database
-- SQL
-- Database Basics
+- SQL, Database Basics
 
 ### 🚀 Currently Improving
-- JavaScript
-- Backend Logic
-- Database Management
+- JavaScript, Backend Logic, Database Management
 
 ---
 
