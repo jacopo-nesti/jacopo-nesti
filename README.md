@@ -2,7 +2,7 @@
 
 💻 Studente Software Developer | 🚀 Futuro Full Stack Developer  | 📍 Firenze/Italia
 
-Futuro developer che ama creare, imparare e condividere codice.
+Futuro developer che ama creare, imparare e condividere codice.  
 🌱 Constantly studying new technologies and improving my skills.
 
 ## Featured Projects
