@@ -3,13 +3,17 @@
 💻 Studente Software Developer | 🚀 Futuro Full Stack Developer  | 📍 Firenze/Italia
 
 Futuro developer che ama creare, imparare e condividere codice.  
-🌱 Constantly studying new technologies and improving my skills.
+Constantly studying new technologies and improving my skills.
 
 ## Featured Projects
 
 ### 🚀 CheckMate - Gestore di compiti personale
 
 [Repository](https://github.com/jacopo-nesti/checkmate)
+
+### 🚧 Booking System - *Working in progress*
+
+[Repository](https://github.com/jacopo-nesti/booking-system)
 
 ## Linguaggi
 
