@@ -11,7 +11,7 @@ Constantly studying new technologies and improving my skills.
 
 [Repository](https://github.com/jacopo-nesti/checkmate)
 
-### 🚧 Booking System - *Working in progress*
+### 🚧 Booking System - *Work in progress*
 
 [Repository](https://github.com/jacopo-nesti/booking-system)
 
