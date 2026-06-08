@@ -29,7 +29,6 @@ Constantly studying new technologies and improving my skills.
 
 ## 🌐 Contatti
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacropoyoga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:jacopo.nesti95@gmail.com)
 
 ⭐ Sempre aperto a collaborazioni e nuovi progetti!
