@@ -13,6 +13,7 @@ Constantly studying new technologies and improving my skills.
 
 ### 📅 Booking System - Automated Appointment & Service Scheduler
 A full-stack web application built with Flask and SQLite to manage bookings, featuring an advanced admin dashboard for treatment and schedule management.
+
 [Repository](https://github.com/jacopo-nesti/booking-system)
 
 ## Linguaggi
