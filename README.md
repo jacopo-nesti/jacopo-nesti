@@ -12,7 +12,7 @@ Gestore di compiti personale.
 ### 📅 [Booking System](https://github.com/jacopo-nesti/booking-system)
 Applicazione web full-stack costruita con Flask e SQLite per la gestione di prenotazioni, con una dashboard admin avanzata per la gestione di trattamenti e orari.
 
-### 🍝 [React Ricette](https://github.com/jacopo-nesti/React-Ricette)
+### 🍝 [React Ricette](https://github.com/jacopo-nesti/React_Ricette)
 Ricettario interattivo costruito con React e React Router, con fetch di dati da API esterna, ordinamento e sezioni espandibili per ingredienti e procedimento.
 
 ### 🧘 [AcroMap Italy](https://github.com/jacopo-nesti/AcroMap_Italy) — *In sviluppo*
