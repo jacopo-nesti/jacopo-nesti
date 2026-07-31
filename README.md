@@ -1,28 +1,31 @@
 # 👋 Ciao, sono Jacopo
 
-💻 Studente Software Developer | 🚀 Futuro Full Stack Developer  | 📍 Firenze/Italia
+💻 Studente Software Developer | 🚀 Futuro Full Stack Developer | 📍 Firenze/Italia
 
-Futuro developer che ama creare, imparare e condividere codice.  
-Constantly studying new technologies and improving my skills.
+Amo creare, imparare e condividere codice. Sto costantemente studiando nuove tecnologie per migliorare le mie competenze.
+
+---
 
 ## Featured Projects
 
-### ✅ CheckMate - Gestore di compiti personale
+### ✅ [Checkmate](https://github.com/jacopo-nesti/checkmate)
+Gestore di compiti personale.
 
-[Repository](https://github.com/jacopo-nesti/checkmate)
+### 📅 [Booking System](https://github.com/jacopo-nesti/booking-system)
+Applicazione web full-stack costruita con Flask e SQLite per la gestione di prenotazioni, con una dashboard admin avanzata per la gestione di trattamenti e orari.
 
-### 📅 Booking System - Automated Appointment & Service Scheduler
-A full-stack web application built with Flask and SQLite to manage bookings, featuring an advanced admin dashboard for treatment and schedule management.
+---
 
-[Repository](https://github.com/jacopo-nesti/booking-system)
+## 📚 Attualmente sto studiando
 
-## 📚 Currently Learning
+- React
 
-- ⚛️ React
-- 🟨 Modern JavaScript (ES6+)
-- 🌐 REST APIs
-- 🔀 React Router
-- 🎣 React Hooks
+## 🎯 Prossimi passi
+
+- TypeScript
+- Express
+- Node.js
+- PostgreSQL
 
 ## Linguaggi
 
