@@ -1,10 +1,8 @@
 # 👋 Ciao, sono Jacopo
 
-💻 Studente Software Developer | 🚀 Futuro Full Stack Developer | 📍 Firenze/Italia
+Studente Software Developer | Futuro Full Stack Developer | Firenze/Italia
 
 Amo creare, imparare e condividere codice. Sto costantemente studiando nuove tecnologie per migliorare le mie competenze.
-
----
 
 ## Featured Projects
 
@@ -14,13 +12,11 @@ Gestore di compiti personale.
 ### 📅 [Booking System](https://github.com/jacopo-nesti/booking-system)
 Applicazione web full-stack costruita con Flask e SQLite per la gestione di prenotazioni, con una dashboard admin avanzata per la gestione di trattamenti e orari.
 
----
-
-## 📚 Attualmente sto studiando
+## Attualmente sto studiando
 
 - React
 
-## 🎯 Prossimi passi
+## Prossimi passi
 
 - TypeScript
 - Express
@@ -40,8 +36,8 @@ Applicazione web full-stack costruita con Flask e SQLite per la gestione di pren
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 🌐 Contatti
+## Contatti
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:jacopo.nesti95@gmail.com)
 
-⭐ Sempre aperto a collaborazioni e nuovi progetti!
+Sempre aperto a collaborazioni e nuovi progetti!
