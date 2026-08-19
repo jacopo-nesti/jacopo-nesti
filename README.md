@@ -6,17 +6,17 @@ Amo creare, imparare e condividere codice. Sto costantemente studiando nuove tec
 
 ## Featured Projects
 
-### ✅ [Checkmate](https://github.com/jacopo-nesti/checkmate)
-Gestore di compiti personale.
+### 🧘 [AcroFinder](https://github.com/jacopo-nesti/AcroMap_Italy) — [www.acrofinder.it](https://www.acrofinder.it)
+Piattaforma web sviluppata con React per trovare community, jam e corsi di Acroyoga in tutta Italia, con ricerca per città, mappa interattiva e pagine dedicate alle community.
 
 ### 📅 [Booking System](https://github.com/jacopo-nesti/booking-system)
 Applicazione web full-stack costruita con Flask e SQLite per la gestione di prenotazioni, con una dashboard admin avanzata per la gestione di trattamenti e orari.
 
+### ✅ [Checkmate](https://github.com/jacopo-nesti/checkmate)
+Gestore di compiti personale.
+
 ### 🍝 [React Ricette](https://github.com/jacopo-nesti/React_Ricette)
 Ricettario interattivo costruito con React e React Router, con fetch di dati da API esterna, ordinamento e sezioni espandibili per ingredienti e procedimento.
-
-### 🧘 [AcroMap Italy](https://github.com/jacopo-nesti/AcroMap_Italy) — *In sviluppo*
-Mappa interattiva dell'Italia per trovare corsi, eventi e altre risorse utili sul mondo dell'acroyoga.
 
 ## Attualmente sto studiando
 
