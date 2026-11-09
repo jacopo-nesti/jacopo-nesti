@@ -28,6 +28,12 @@ Applicazione web full-stack sviluppata con Flask e SQLite per la gestione delle 
 
 Web app Flask per la gestione di task personali con autenticazione utenti, area privata e operazioni CRUD.
 
+### 🏥 [Gestionale Triage Pronto Soccorso](https://github.com/jacopo-nesti/triage-pronto-soccorso)
+
+Applicazione da console in C++ per la registrazione dei pazienti e il triage: questionario sui sintomi con calcolo del punteggio di gravità e assegnazione del codice triage, sintomi specifici per area clinica e lista pazienti.
+
+Sviluppato interamente a mano, circa 550 righe di codice. Progetto in corso.
+
 ### 🍝 [React Ricette](https://github.com/jacopo-nesti/React_Ricette)
 
 Ricettario interattivo sviluppato con React e React Router, con dati recuperati da API esterne, ordinamento e sezioni espandibili per ingredienti e procedimento.
@@ -44,6 +50,7 @@ Sto approfondendo lo sviluppo full-stack con **JavaScript, React, Node.js, API e
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
